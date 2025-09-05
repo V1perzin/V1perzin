@@ -10,7 +10,7 @@
 ![Games](https://img.shields.io/badge/Gamer-🎮-blue?style=for-the-badge)
 ![Figures](https://img.shields.io/badge/Figures-🤖-orange?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=seu-username&theme=highcontrast)
