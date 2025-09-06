@@ -1,4 +1,4 @@
-![Banner]([[(https://pa1.aminoapps.com/6328/7a2c5fbcc3e3f1afedececab9f8b41739d953d8d_hq.gif)](https://pa1.narvii.com/6333/51f9d6a0e29c8f4ce73f5b80b8be0f3b0593136e_00.gif)](https://pa1.narvii.com/6333/51f9d6a0e29c8f4ce73f5b80b8be0f3b0593136e_00.gif))
+![Banner](https://pa1.narvii.com/6333/51f9d6a0e29c8f4ce73f5b80b8be0f3b0593136e_00.gif)
 
 # 👋 Olá, eu sou o Viperzin_  
 
