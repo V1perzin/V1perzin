@@ -25,7 +25,6 @@
 - [Concurso-Fotos-de-Action-Figures](https://github.com/V1perzin/Concurso-Fotos-de-Action-Figures) — fotos/estilo focado em figures
 - [biblioteca_bd](https://github.com/V1perzin/biblioteca_bd)
 - [BancoDeDadosSupermercado](https://github.com/V1perzin/BancoDeDadosSupermercado)
-- [ProcedureAndTriggersPierre](https://github.com/V1perzin/ProcedureAndTriggersPierre)
 
 ---
 
