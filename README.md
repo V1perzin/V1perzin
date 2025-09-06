@@ -8,6 +8,11 @@
 
 ![Metrics](https://raw.githubusercontent.com/V1perzin/V1perzin/main/github-metrics.svg)
 
+<!-- Snake chart -->
+![snake gif](https://raw.githubusercontent.com/V1perzin/V1perzin/output/snake.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/V1perzin/V1perzin/output/snake-dark.svg#gh-light-mode-only)
+
+
 ---
 
 ## 📊 Estatísticas
