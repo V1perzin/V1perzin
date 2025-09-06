@@ -6,6 +6,8 @@
 ![Gamer](https://img.shields.io/badge/Gamer-🎮-blue?style=for-the-badge)
 ![Figures](https://img.shields.io/badge/Figures-🤖-orange?style=for-the-badge)
 
+![Metrics](https://raw.githubusercontent.com/V1perzin/V1perzin/main/github-metrics.svg)
+
 ---
 
 ## 📊 Estatísticas
