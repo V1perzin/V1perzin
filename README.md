@@ -5,7 +5,7 @@
 💻 Programador apaixonado por action figures, animes e games!
 🔥 Sempre explorando novas ideias e projetos!
 
-![GitHub followers](https://img.shields.io/github/followers/seu-username?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/V1perzin?style=for-the-badge&logo=github)
 ![Anime](https://img.shields.io/badge/Anime-❤-purple?style=for-the-badge)
 ![Games](https://img.shields.io/badge/Gamer-🎮-blue?style=for-the-badge)
 ![Figures](https://img.shields.io/badge/Figures-🤖-orange?style=for-the-badge)
