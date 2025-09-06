@@ -1,8 +1,12 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "30 2 * * *"    # roda todo dia ~23:30 no Brasil
+    - cron: "30 2 * * *"   # ~23:30 no Brasil (UTC 02:30)
   workflow_dispatch:
+
+permissions:
+  contents: write   # necessário para gravar na branch 'output'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,7 +18,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish to GitHub Pages (branch output)
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
