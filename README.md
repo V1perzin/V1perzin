@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 Estatísticas
+Estatísticas
 
 <!-- Stats principais -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1perzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -28,12 +28,11 @@
 
 ---
 
-## 🚀 Projetos em destaque
+Projetos em destaque
 - [Concurso-Fotos-de-Action-Figures](https://github.com/V1perzin/Concurso-Fotos-de-Action-Figures) — fotos/estilo focado em figures
 - [biblioteca_bd](https://github.com/V1perzin/biblioteca_bd)
 - [BancoDeDadosSupermercado](https://github.com/V1perzin/BancoDeDadosSupermercado)
 
 ---
 
-## 🧩 Sobre
 > “Coding & Coffee ☕ | Figures 🤖 | Anime & Games 🎮”
