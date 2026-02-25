@@ -12,7 +12,6 @@
 
 ```yaml
 Name: V1perzin
-Role: Fullstack Developer
 Focus: Web Systems, TCG Store, Automation
 Passions:
   - Dragon Ball
@@ -91,25 +90,6 @@ Power Level: Over 9000
 + Figure Collector
 + Future Tech Legend
 ```
-
----
-
-# 📦 Collector Profile
-
-Premium Figure Collector:
-
-* Alphamax
-* FREEing
-* Good Smile Company
-* Max Factory
-* Bandai
-* Native
-
-Focused on:
-
-* 1/4 Scale Bunny Figures
-* Limited Editions
-* Rare Anime Collectibles
 
 ---
 
