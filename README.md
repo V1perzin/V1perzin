@@ -4,7 +4,7 @@
 
 <h1 align="center">👑 V1perzin</h1>
 
-<h3 align="center">💻 Software Developer | 🐉 Saiyan Coder | 🏴‍☠️ Code Pirate | 📦 Premium Figure Collector</h3>
+<h3 align="center">💻 Software Developer | Premium Figure Collector</h3>
 
 ---
 
