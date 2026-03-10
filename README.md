@@ -56,7 +56,9 @@ Power Level: Over 9000
 
 # 🏆 Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /> </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
