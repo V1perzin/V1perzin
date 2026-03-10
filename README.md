@@ -64,7 +64,11 @@ Power Level: Over 9000
 
 # 🐍 Contribution Snake (GOD LEVEL)
 
-<p align="center"> <img src="https://raw.githubusercontent.com/V1perzin/V1perzin/output/github-contribution-grid-snake.svg" /> </p>
+# 🐍 Contribution Snake (GOD LEVEL)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/V1perzin/V1perzin/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
