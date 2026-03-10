@@ -48,7 +48,7 @@ Power Level: Over 9000
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800" />
 
 </p>
 
