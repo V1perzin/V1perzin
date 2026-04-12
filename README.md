@@ -1,7 +1,5 @@
 <!-- BANNER -->
 
-<img src="![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/33b2e42d-b548-4513-81f6-b487337f3d6e)">
-
 <img src="https://i.pinimg.com/originals/6b/8a/63/6b8a63d9d4c0d5b0cbe6c3b8f2c6a4c3.gif" width="100%">
 
 <h1 align="center">👑 V1perzin</h1>
