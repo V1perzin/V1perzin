@@ -1,5 +1,7 @@
 <!-- BANNER -->
 
+https://raw.githubusercontent.com/V1perzin/V1perzin/main/![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/9f922998-3f52-4c12-b859-877bfa96c523)
+
 <img src="https://i.pinimg.com/originals/6b/8a/63/6b8a63d9d4c0d5b0cbe6c3b8f2c6a4c3.gif" width="100%">
 
 <h1 align="center">👑 V1perzin</h1>
