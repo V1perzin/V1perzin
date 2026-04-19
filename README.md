@@ -9,7 +9,7 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
 ```yaml
 Name: V1perzin
@@ -24,7 +24,7 @@ Power Level: Over 9000
 
 ---
 
-# ⚡ Tech Arsenal
+# Tech Arsenal
 
 <p align="center">
 
@@ -40,7 +40,7 @@ Power Level: Over 9000
 
 ---
 
-# 🔥 Streak Stats
+# Streak Stats
 
 <p align="center">
 
@@ -66,7 +66,7 @@ Power Level: Over 9000
 
 ---
 
-# 👑 Titles
+# Titles
 
 ```diff
 + Software Developer
@@ -79,7 +79,7 @@ Power Level: Over 9000
 
 ---
 
-# 🚀 Current Projects
+# Current Projects
 
 * 🛒 TCG Card Store System
 * 🌐 Web Platforms
@@ -88,13 +88,13 @@ Power Level: Over 9000
 
 ---
 
-# 🐉 Final Form
+# Final Form
 
 <p align="center"> <img src="https://media.tenor.com/8QfQ7jYQz6gAAAAC/goku-dragon-ball.gif" width="400"> </p>
 
 ---
 
-# ⚡ Motto
+# Motto
 
 ```"
 Discipline turns code into power.
@@ -103,7 +103,7 @@ Power turns vision into reality.
 
 ---
 
-# 🏴‍☠️ Profile Status
+# Profile Status
 
 <p align="center">
 
