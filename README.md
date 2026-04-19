@@ -6,7 +6,7 @@
 
 <h1 align="center">👑 Viperzin</h1>
 
-<h3 align="center">💻 Software Developer | Premium Figure Collector</h3>
+<h3 align="center">💻 Software Developer | Figure Collector</h3>
 
 ---
 
