@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/6b/8a/63/6b8a63d9d4c0d5b0cbe6c3b8f2c6a4c3.gif" width="100%">
 
-<h1 align="center">👑 V1perzin</h1>
+<h1 align="center">👑 Viperzin</h1>
 
 <h3 align="center">💻 Software Developer | Premium Figure Collector</h3>
 
