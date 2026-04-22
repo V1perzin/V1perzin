@@ -83,12 +83,6 @@ Power Level: Over 9000
 
 ---
 
-# Final Form
-
-<p align="center"> <img src="https://media.tenor.com/8QfQ7jYQz6gAAAAC/goku-dragon-ball.gif" width="400"> </p>
-
----
-
 # Motto
 
 ```"
