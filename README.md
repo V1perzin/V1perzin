@@ -1,8 +1,3 @@
-<!-- BANNER -->
-
-<p align="center">  <img src="https://github.com/user-attachments/assets/1d52f2e0-3b9e-41d0-8af0-2bbbcfcb972c" width="300"/></p>
-
-
 <h1 align="center">👑 Viperzin</h1>
 
 <h3 align="center">💻 Software Developer | Figure Collector</h3>
