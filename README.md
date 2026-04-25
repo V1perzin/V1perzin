@@ -4,21 +4,6 @@
 
 ---
 
-# About Me
-
-```yaml
-Name: V1perzin
-Focus: Web Systems, TCG Store, Automation
-Passions:
-  - Dragon Ball
-  - One Piece
-  - Anime Figures (Alphamax, FREEing, Good Smile, Max Factory)
-  - Programming and building powerful systems
-Power Level: Over 9000
-```
-
----
-
 # Tech Arsenal
 
 <p align="center">
@@ -76,10 +61,11 @@ Power Level: Over 9000
 
 # Current Projects
 
-* 🛒 TCG Card Store System
-* 🌐 Web Platforms
-* ⚙️ Automation Systems
-* 📊 Data Monitoring Tools
+* TCG Card Store System
+* Web Platforms
+* VtuberIA Yumi
+* Automation Systems
+* Data Monitoring Tools
 
 ---
 
