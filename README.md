@@ -44,7 +44,8 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 # 🤖 Yumi VTuber IA
 
 <p align="center">
-  <img src="assets/dashboard.png" width="100%" />
+  <img src="<img width="1363" height="1154" alt="ChatGPT Image 27 de abr  de 2026, 00_50_21" src="https://github.com/user-attachments/assets/a20ca5ce-6ec1-45b2-8435-65a8cff18407" />
+" width="100%" />
 </p>
 
 ---
@@ -52,7 +53,8 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 # 🎬 Yumi In Action (LIVE)
 
 <p align="center">
-  <img src="assets/yumi.gif" width="80%" />
+  <img src="![Uploading ChatGPT Image 27 de abr. de 2026, 00_50_09.png…]()
+" width="80%" />
 </p>
 
 ---
