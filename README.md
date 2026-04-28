@@ -1,4 +1,4 @@
-<h1 align="center">👑 Viperzin</h1>
+<h1 align="center">Viperzin</h1>
 
 <p align="center">
   <img src="assets/banner.png" width="100%" />
@@ -88,7 +88,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🧬 Titles
+# Titles
 
 ```diff
 + Software Developer
@@ -104,7 +104,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🧠 Motto
+# Motto
 
 ```
 Discipline turns code into power.
@@ -113,7 +113,7 @@ Power turns vision into reality.
 
 ---
 
-# 👁️ Profile Status
+# Profile Status
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=V1perzin&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
