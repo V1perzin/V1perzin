@@ -53,8 +53,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 # 🎬 Yumi In Action (LIVE)
 
 <p align="center">
-  <img src="![Uploading ChatGPT Image 27 de abr. de 2026, 00_50_09.png…]()
-" width="80%" />
+  <img src="assets/dashboard.png" width="100%" />
 </p>
 
 ---
