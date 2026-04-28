@@ -8,22 +8,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=28&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;VTuber+Engineer;Automation+Architect;Building+Smart+Systems" />
 </p>
 
-<h3 align="center">💻 Software Developer | AI Systems | Figure Collector</h3>
+<h3 align="center"> Software Developer | AI Systems | Figure Collector</h3>
 
 ---
 
-# 🚀 About Me
+# About Me
 
 Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
-* 🧠 Inteligência artificial (LLMs + visão)
-* 🎤 Interfaces por voz (STT / TTS)
-* 🖥️ Automação desktop
-* 🎮 VTuber / Live2D systems
+* Inteligência artificial
+* Interfaces por voz
+* Automação desktop
+* VTuber / Live2D systems
 
 ---
 
-# ⚙️ Tech Arsenal
+# Tech Arsenal
 
 <p align="center">
 
@@ -41,16 +41,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🤖 Yumi VTuber IA
-
-<p align="center">
-  <img src="<img width="1363" height="1154" alt="ChatGPT Image 27 de abr  de 2026, 00_50_21" src="https://github.com/user-attachments/assets/a20ca5ce-6ec1-45b2-8435-65a8cff18407" />
-" width="100%" />
-</p>
-
----
-
-# 🎬 Yumi In Action (LIVE)
+# Yumi In Action (LIVE)
 
 <p align="center">
   <img src="assets/dashboard.png" width="100%" />
@@ -58,7 +49,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 📊 Activity & Performance
+# Activity & Performance
 
 <p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117"/>
@@ -71,7 +62,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
@@ -79,7 +70,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🐍 Contribution Snake (GOD LEVEL)
+# Contribution Snake (GOD LEVEL)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/V1perzin/V1perzin/output/github-contribution-grid-snake.svg"/>
@@ -87,7 +78,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 
 ---
 
-# 🧩 Current Projects
+# Current Projects
 
 * 🤖 VtuberIA Yumi (AI + Voice + Automation)
 * 🛒 TCG Card Store System
