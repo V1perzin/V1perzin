@@ -65,7 +65,7 @@ Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
 # Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=V1perzin"/>
 </p>
 
 ---
