@@ -68,12 +68,21 @@ Desenvolvedor com interesse em **automação, inteligência artificial e sistema
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V1perzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05D8B&icon_color=7AA2F7&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117&ring=F05D8B&fire=F7768E&currStreakLabel=7AA2F7" alt="Sequência de contribuições" />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117&ring=F05D8B&fire=F7768E&currStreakLabel=7AA2F7"
+    alt="Sequência de contribuições no GitHub"
+  />
 </p>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1perzin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05D8B&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <a href="https://github.com/V1perzin?tab=repositories">
+    🎮 Ver meus repositórios
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/V1perzin?tab=stars">
+    ⭐ Ver projetos salvos
+  </a>
 </p>
 
 ---
