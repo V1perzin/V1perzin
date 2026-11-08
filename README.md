@@ -90,7 +90,8 @@ Desenvolvedor com interesse em **automação, inteligência artificial e sistema
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Conquistas no GitHub" />
+  Confira minhas atividades e projetos diretamente no
+  <a href="https://github.com/V1perzin">meu perfil do GitHub</a>.
 </p>
 
 ---
