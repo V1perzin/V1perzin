@@ -87,15 +87,6 @@ Desenvolvedor com interesse em **automação, inteligência artificial e sistema
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  Confira minhas atividades e projetos diretamente no
-  <a href="https://github.com/V1perzin">meu perfil do GitHub</a>.
-</p>
-
----
-
 ## 🐍 Mapa de contribuições
 
 <p align="center">
