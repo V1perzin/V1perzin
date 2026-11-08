@@ -1,124 +1,104 @@
-<h1 align="center">Viperzin</h1>
+<h1 align="center">⛩️ Viperzin</h1>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets/banner.png" width="100%" alt="Banner do perfil Viperzin" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=28&center=true&vCenter=true&width=600&lines=AI+Systems+Developer;VTuber+Engineer;Automation+Architect;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=F05D8B&center=true&vCenter=true&width=700&lines=ソフトウェア開発者;Game+%26+Anime+Culture;AI+%7C+Automation+%7C+Creative+Tech;Building+Ideas+into+Systems" alt="Animação de apresentação" />
 </p>
 
-<h3 align="center"> Software Developer | AI Systems | Figure Collector</h3>
-
----
-
-# About Me
-
-Desenvolvedor focado em **automação, IA aplicada e sistemas inteligentes**.
-
-* Inteligência artificial
-* Interfaces por voz
-* Automação desktop
-* VTuber / Live2D systems
-
----
-
-# Tech Arsenal
+<p align="center">
+  <strong>Software Developer</strong>　·　<strong>AI & Automation</strong>　·　<strong>Figure Collector</strong>
+</p>
 
 <p align="center">
-
-![NodeJS](https://img.shields.io/badge/nodejs-000000?style=for-the-badge\&logo=node.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge\&logo=javascript\&logoColor=yellow)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge\&logo=python\&logoColor=blue)
-![Electron](https://img.shields.io/badge/electron-000000?style=for-the-badge\&logo=electron\&logoColor=cyan)
-![OpenAI](https://img.shields.io/badge/openai-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-000000?style=for-the-badge\&logo=html5\&logoColor=orange)
-![CSS](https://img.shields.io/badge/css3-000000?style=for-the-badge\&logo=css3\&logoColor=blue)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge\&logo=git\&logoColor=red)
-![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge\&logo=github\&logoColor=white)
-
+  <code>東京のネオンに着想を得て、コードでアイデアを形にする。</code>
 </p>
 
 ---
 
-# Yumi In Action (LIVE)
+## 🏮 Sobre mim
+
+Desenvolvedor com interesse em **automação, inteligência artificial e sistemas criativos**. Gosto de transformar ideias em ferramentas úteis, combinando tecnologia com referências de games, anime e cultura japonesa.
+
+- 🤖 Inteligência artificial e interfaces por voz
+- ⚙️ Automação desktop e sistemas inteligentes
+- 🎙️ VTubers, Live2D e experiências interativas
+- 🎮 Games, colecionáveis e cultura pop japonesa
+
+---
+
+## ⚔️ Arsenal tecnológico
 
 <p align="center">
-  <img src="assets/dashboard.png" width="100%" />
+  <img src="https://img.shields.io/badge/Node.js-171923?style=for-the-badge&logo=node.js&logoColor=78Dba9" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-171923?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-171923?style=for-the-badge&logo=python&logoColor=5DADE2" alt="Python" />
+  <img src="https://img.shields.io/badge/Electron-171923?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
+  <img src="https://img.shields.io/badge/OpenAI-171923?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/HTML5-171923?style=for-the-badge&logo=html5&logoColor=E76F51" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-171923?style=for-the-badge&logo=css3&logoColor=5DADE2" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-171923?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
 ---
 
-# Activity & Performance
+## 🌸 Yumi em ação
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=V1perzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1perzin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="assets/dashboard.png" width="100%" alt="Dashboard da Yumi" />
 </p>
 
 ---
 
-# Achievements
+## 🎮 Projetos em andamento
+
+| Projeto | Descrição |
+| --- | --- |
+| 🤖 **VTuberIA Yumi** | IA, voz e automação em uma experiência interativa |
+| 🛒 **TCG Card Store System** | Sistema para loja de cards colecionáveis |
+| 🌐 **Web Platforms** | Plataformas e aplicações web |
+| ⚙️ **Automation Systems** | Ferramentas para automatizar tarefas |
+| 📊 **Data Monitoring Tools** | Monitoramento e visualização de dados |
+
+---
+
+## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V1perzin"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V1perzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05D8B&icon_color=7AA2F7&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=V1perzin&theme=tokyonight&hide_border=true&background=0D1117&ring=F05D8B&fire=F7768E&currStreakLabel=7AA2F7" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1perzin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05D8B&text_color=C9D1D9" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-# Contribution Snake (GOD LEVEL)
+## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/V1perzin/V1perzin/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=V1perzin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Conquistas no GitHub" />
 </p>
 
 ---
 
-# Current Projects
+## 🐍 Mapa de contribuições
 
-* 🤖 VtuberIA Yumi (AI + Voice + Automation)
-* 🛒 TCG Card Store System
-* 🌐 Web Platforms
-* ⚙️ Automation Systems
-* 📊 Data Monitoring Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/V1perzin/V1perzin/output/github-contribution-grid-snake.svg" alt="Animação das contribuições" />
+</p>
 
 ---
 
-# Titles
+## 🥷 Codename
 
-```diff
+```text
 + Software Developer
-+ Saiyan Coder
-+ Code Pirate
-+ System Architect
-+ AI Systems Builder
++ AI & Automation Builder
 + VTuber Engineer
-+ Automation Architect
++ Game and Anime Enthusiast
 + Figure Collector
-+ Future Tech Legend
-```
-
----
-
-# Motto
-
-```
-Discipline turns code into power.
-Power turns vision into reality.
-```
-
----
-
-# Profile Status
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=V1perzin&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-<!-- END -->
